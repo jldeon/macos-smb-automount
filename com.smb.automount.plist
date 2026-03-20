@@ -7,7 +7,7 @@
 
     <key>ProgramArguments</key>
     <array>
-        <string>/bin/bash</string>
+        <string>/opt/homebrew/bin/bash</string>
         <string>/Users/YOUR_USERNAME/Library/Application Support/SMBAutoMount/mount.sh</string>
     </array>
 
